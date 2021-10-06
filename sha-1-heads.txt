@@ -1,0 +1,11 @@
+C#: HEAD SHA-1 checksum
+C++: HEAD SHA-1 checksum
+D: HEAD SHA-1 checksum
+Fortran: HEAD SHA-1 checksum
+Groovy: HEAD SHA-1 checksum
+Java: HEAD SHA-1 checksum
+Perl: HEAD SHA-1 checksum
+Python: HEAD SHA-1 checksum
+Ruby: HEAD SHA-1 checksum
+Rust: HEAD SHA-1 checksum
+
